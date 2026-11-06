@@ -1,0 +1,22 @@
+# Unity cache & build artifacts
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]tmp/
+[Mm]emoryCaptures/
+
+# Auto-generated build backups
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE, OS & Output files
+.vs/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.apk
